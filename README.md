@@ -1,7 +1,6 @@
 # Poke APP
 
 <img src="./demo.jpg" alt="poke app demo">
----
 
 
 ## techs
