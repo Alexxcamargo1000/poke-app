@@ -1,0 +1,31 @@
+.findPokemon .pokeItem {
+    transition: .2s;
+    min-width: 300px;
+}
+.pokeItem {
+    border-radius: 4px;
+    height: 100%;
+    list-style: none;
+    background-color:rgb(231, 231, 231) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.pokeItem img {
+    max-width: 100px;
+}
+
+.pokeItem h1 {
+    width: 90%;
+    text-align: center;
+    color: black;
+}
+.containerImg {
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 60px 0 0;
+}
